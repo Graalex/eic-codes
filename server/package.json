@@ -1,0 +1,16 @@
+{
+  "name": "eic-codes-api",
+  "version": "1.0.0",
+  "description": "REST api сервер, для управления EIC кодами потребителя.",
+  "main": "server.js",
+  "scripts": {},
+  "author": "Григорчук Александр",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "file-stream-rotator": "0.0.7",
+    "morgan": "^1.7.0",
+    "mssql": "^3.3.0"
+  }
+}
